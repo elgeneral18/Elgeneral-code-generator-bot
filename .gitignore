@@ -1,0 +1,16 @@
+# Secrets
+config.py
+.env
+*.db
+
+# Runtime
+projects/
+zips/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
