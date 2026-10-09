@@ -1,6 +1,6 @@
-# 🤖 CodeGeneratorBot
+# 🤖 Elgeneral-code-generator-bot
 
-CodeGeneratorBot is an AI-powered Telegram bot that turns simple ideas into complete, ready-to-download projects using Gemini AI.
+Elgeneral-code-generator-bot is an AI-powered Telegram bot that turns simple ideas into complete, ready-to-download projects using Gemini AI.
 
 The bot allows users to generate websites or Telegram bots, add images and assets, and download their generated projects as ZIP files.
 
@@ -69,8 +69,8 @@ User → Telegram Bot → Choose Project Type → Describe Idea
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeGeneratorBot.git
-cd CodeGeneratorBot
+git clone https://github.com/elgeneral18/Elgeneral-code-generator-bot-.git
+cd Elgeneral-code-generator-bot
 ```
 
 2. Install dependencies
